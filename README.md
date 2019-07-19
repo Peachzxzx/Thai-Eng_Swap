@@ -1,6 +1,13 @@
 # Thai-Eng_Swap
 Aegisub automation เปลี่ยนภาษาไทย<=>อังกฤษ
 
+## Requirements
+* Aegisub with support of Automation 4 (maybe working on 3?)
+
+## Installation
+1. Downloading the file.
+2. Moving the file to "automation/autoload" in aegisub installation location.
+
 ## Usage
 
 First, having the text forgotten to switch language keyboard layout.
