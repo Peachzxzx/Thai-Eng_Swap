@@ -55,3 +55,7 @@ text after used of function
 
 Thai keyboard layout is Thai-Kedmanee-based</br>
 English keyboard layout is QWERTY-based
+
+## License
+
+Copyright © 2019 Peachzxzx All Rights Reserved.
