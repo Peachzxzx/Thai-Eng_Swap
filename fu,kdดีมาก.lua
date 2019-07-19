@@ -1,6 +1,6 @@
 local tr = aegisub.gettext
 
-script_name=tr"ถถถ555"
+script_name=tr"fu,kdดีมาก"
 script_description=tr"เปลี่ยนข้อความเมื่อลืมเปลี่ยนภาษา"
 script_author="Peachzxzx"
 script_version="1.0.0"
@@ -260,5 +260,5 @@ function ChangeText_ENG_to_TH(subtitles, selected_lines,active_line)
 	aegisub.set_undo_point("ENG_to_TH")
 end
 
-aegisub.register_macro('ถถถ555/ENG_to_TH',"de => กำ",ChangeText_ENG_to_TH)
-aegisub.register_macro('ถถถ555/TH_to_ENG',"ถถถ => 555",ChangeText_TH_to_ENG)
+aegisub.register_macro('fu,kdดีมาก/ENG_to_TH',"de => กำ",ChangeText_ENG_to_TH)
+aegisub.register_macro('fu,kdดีมาก/TH_to_ENG',"ถถถ => 555",ChangeText_TH_to_ENG)
