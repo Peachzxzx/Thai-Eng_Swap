@@ -1,4 +1,7 @@
 -- Copyright © 2019 Peachzxzx All Rights Reserved.
+--
+-- Manual : https://github.com/Peachzxzx/Thai-Eng_Swap-for-aegisub
+
 local tr = aegisub.gettext
 
 script_name=tr"fu,kdดีมาก"
