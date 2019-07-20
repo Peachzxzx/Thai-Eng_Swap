@@ -43,7 +43,7 @@ line | text
 3.   | {\an8\fs50}gpj {\fs80} yay
 ```
 
-##### Text within curly brackets will not affected by any used of function
+##### Text within curly brackets will not be affected by any used of function
 ```
 text
 {LOL ขำ}
