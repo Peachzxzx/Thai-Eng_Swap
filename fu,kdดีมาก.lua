@@ -1,4 +1,4 @@
--- Copyright © 2019 Peachzxzx All Rights Reserved.
+-- Copyright (c) 2019 Peachzxzx All Rights Reserved.
 --
 -- Manual : https://github.com/Peachzxzx/Thai-Eng_Swap-for-aegisub
 
