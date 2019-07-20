@@ -58,4 +58,4 @@ English keyboard layout is QWERTY-based
 
 ## License
 
-Copyright © 2019 Peachzxzx All Rights Reserved.
+Copyright (c) 2019 Peachzxzx All Rights Reserved.
