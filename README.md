@@ -1,4 +1,4 @@
-# Thai-Eng_Swap
+# Thai-Eng_Swap for aegisub
 Aegisub automation เปลี่ยนภาษาไทย<=>อังกฤษ
 
 ## Requirements
