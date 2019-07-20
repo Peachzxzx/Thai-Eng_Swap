@@ -1,3 +1,4 @@
+-- Copyright © 2019 Peachzxzx All Rights Reserved.
 local tr = aegisub.gettext
 
 script_name=tr"fu,kdดีมาก"
