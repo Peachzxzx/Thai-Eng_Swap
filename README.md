@@ -21,7 +21,7 @@ line | text
 
 And select the line(s) you want to change.
 
-#### Changing from English to Thai by using ENG_to_TH.
+#### Changing from English to Thai by using ENG_to_TH
 
 ```
 After using ENG_to_TH
@@ -32,7 +32,7 @@ line | text
 3.   | {\an8\fs50}เย่ {\fs80} ัฟั
 ```
 
-#### Changing from English to Thai by using TH_to_ENG.
+#### Changing from English to Thai by using TH_to_ENG
 
 ```
 After using TH_to_ENG
@@ -43,7 +43,7 @@ line | text
 3.   | {\an8\fs50}gpj {\fs80} yay
 ```
 
-##### Text within curly brackets will not be affected by any used of function
+##### Text within curly brackets will not be affected by any used of function.
 ```
 text
 {LOL ขำ}
@@ -53,8 +53,8 @@ text after used of function
 ```
 ## Note
 
-* Thai keyboard layout is Thai-Kedmanee-based
-* English keyboard layout is QWERTY-based
+* Thai keyboard layout is Thai-Kedmanee-based.
+* English keyboard layout is QWERTY-based.
 * Changing between two language at the same time is not posible due to the same character in both keyboard layout.
 
 ## License
