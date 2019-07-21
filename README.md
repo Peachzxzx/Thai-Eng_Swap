@@ -19,9 +19,10 @@ line | text
 1.   | ถถถ
 2.   | l;ylfu8iy[
 3.   | {\an8\fs50}gpj {\fs80} ัฟั
+4.   | fu,kd
 ```
 
-And select the line(s) you want to change.
+And select the line(s) you want to change and use ENG_to_TH or TH_to_ENG in the "fu,kdดีมาก" automation.
 
 #### Changing from English to Thai by using ENG_to_TH
 
@@ -32,6 +33,7 @@ line | text
 1.   | ถถถ
 2.   | สวัสดีครับ
 3.   | {\an8\fs50}เย่ {\fs80} ัฟั
+4.   | ดีมาก
 ```
 
 #### Changing from English to Thai by using TH_to_ENG
@@ -43,6 +45,7 @@ line | text
 1.   | 555
 2.   | l;ylfu8iy[
 3.   | {\an8\fs50}gpj {\fs80} yay
+4.   | fu,kd
 ```
 
 ##### Text within curly brackets will not be affected by any used of function.
