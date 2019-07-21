@@ -53,8 +53,9 @@ text after used of function
 ```
 ## Note
 
-Thai keyboard layout is Thai-Kedmanee-based</br>
-English keyboard layout is QWERTY-based
+* Thai keyboard layout is Thai-Kedmanee-based
+* English keyboard layout is QWERTY-based
+* Changing between two language at the same time is not posible due to the same character in both keyboard layout.
 
 ## License
 
