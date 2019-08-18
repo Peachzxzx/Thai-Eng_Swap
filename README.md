@@ -1,4 +1,4 @@
-[![CC BY-NC-SA 4.0](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![CC BY-NC-SA 4.0](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 # Thai-Eng_Swap for aegisub
 Aegisub automation เปลี่ยนภาษาไทย<=>อังกฤษ
@@ -64,4 +64,4 @@ text after used of function
 
 ## License
 
-Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. (CC BY-NC-SA 4.0)
+Creative Commons Attribution-NonCommercial 4.0 International License. (CC BY-NC 4.0)
