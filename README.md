@@ -4,7 +4,7 @@
 Aegisub automation เปลี่ยนภาษาไทย<=>อังกฤษ
 
 ## Requirements
-* Aegisub with support of Automation 4 (maybe working on 3?)
+* Aegisub supporting Automation 4 (maybe working on 3?)
 
 ## Installation
 1. Downloading the file.
