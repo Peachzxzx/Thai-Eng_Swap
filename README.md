@@ -3,16 +3,16 @@
 # Thai-Eng_Swap for aegisub
 Aegisub automation เปลี่ยนภาษาไทย<=>อังกฤษ
 
-## Requirements
+## Requirement
 * Aegisub supporting Automation 4 (maybe working on 3?)
 
 ## Installation
-1. Download "fu,kdดีมาก.lua".
-2. Move the file to "automation/autoload" in aegisub installation location.
+1. Download "fu,kdดีมาก.lua"
+2. Move the file to "automation/autoload" in aegisub installation location
 
 ## Usage
 
-First, having the text forgotten to switch language keyboard layout.
+First, have the text forgotten to switch language keyboard layout.
 
 ```
 line | text
@@ -24,7 +24,7 @@ line | text
 
 And select the line(s) you want to change and use ENG_to_TH or TH_to_ENG in the "fu,kdดีมาก" automation.
 
-#### Changing from English to Thai by using ENG_to_TH
+#### Change from English to Thai by using ENG_to_TH
 
 ```
 After using ENG_to_TH
@@ -36,7 +36,7 @@ line | text
 4.   | ดีมาก
 ```
 
-#### Changing from English to Thai by using TH_to_ENG
+#### Change Thai text to English text by using TH_to_ENG
 
 ```
 After using TH_to_ENG
@@ -54,18 +54,18 @@ line | text
 Before
 
 line | text
-1.   | {\an8\fs50} {Hello World} {สวัสดีชาวโลก}
+1.   | {\an8\fs50} {Hello World} {สวัสดีชาวโลก} {ハロー・ワールド}
 
 After
 
 line | text
-1.   | {\an8\fs50} {Hello World} {สวัสดีชาวโลก}
+1.   | {\an8\fs50} {Hello World} {สวัสดีชาวโลก} {ハロー・ワールド}
 ```
 
 ## Note
 
 * Thai keyboard layout is Thai-Kedmanee-based.
-* English keyboard layout is QWERTY-based.
+* English keyboard layout is US-QWERTY-based.
 * Changing between two language at the same time is not possible due to the same character in both keyboard layout.
 
 ## License
