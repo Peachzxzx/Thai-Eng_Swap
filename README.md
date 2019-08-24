@@ -7,8 +7,8 @@ Aegisub automation เปลี่ยนภาษาไทย<=>อังกฤ�
 * Aegisub supporting Automation 4 (maybe working on 3?)
 
 ## Installation
-1. Downloading the file.
-2. Moving the file to "automation/autoload" in aegisub installation location.
+1. Download "fu,kdดีมาก.lua".
+2. Move the file to "automation/autoload" in aegisub installation location.
 
 ## Usage
 
@@ -48,20 +48,26 @@ line | text
 4.   | fu,kd
 ```
 
-##### Text within curly brackets will not be affected by any used of function.
-```
-text
-{LOL ขำ}
+##### Text within curly brackets will not be affected by function.
 
-text after used of function
-{LOL ขำ}
 ```
+Before
+
+line | text
+1.   | {\an8\fs50} {Hello World} {สวัสดีชาวโลก}
+
+After
+
+line | text
+1.   | {\an8\fs50} {Hello World} {สวัสดีชาวโลก}
+```
+
 ## Note
 
 * Thai keyboard layout is Thai-Kedmanee-based.
 * English keyboard layout is QWERTY-based.
-* Changing between two language at the same time is not posible due to the same character in both keyboard layout.
+* Changing between two language at the same time is not possible due to the same character in both keyboard layout.
 
 ## License
 
-Creative Commons Attribution-NonCommercial 4.0 International License. (CC BY-NC 4.0)
+Thai-Eng_Swap-for-aegisub is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
